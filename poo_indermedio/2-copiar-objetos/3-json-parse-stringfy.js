@@ -3,6 +3,9 @@ const obj1 = {
     b: "b",
     c: {
         a: "test c"
+    },
+    saludar: function(test) {
+        return "Hola " + test
     }
 }
 
